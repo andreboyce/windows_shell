@@ -1,0 +1,3 @@
+https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fyahoo.com
+https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fmicrosoft.com
+https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fyoutube.com
